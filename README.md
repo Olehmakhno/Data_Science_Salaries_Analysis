@@ -25,20 +25,6 @@ Analysis of Data Science Salaries using SQL and Tableau
 
 ---
 
-## 📂 Структура проєкту
-├── data/
-│ └── salaries2025.csv
-├── sql/
-│ ├── salary_by_job.sql
-│ ├── salary_by_experience.sql
-│ ├── salary_trend.sql
-│ ├── top_countries.sql
-│ └── remote_ratio.sql
-├── dashboard/
-│ └── Tableau_Public_Dashboard.twbx
-└── README.md
----
-
 ## 🔗 Дашборд Tableau
 
 👉 [Перейти до дашборду Tableau Public](https://public.tableau.com/app/profile/oleh.makhno/viz/-_17499288306480/Dashboard1?publish=yes)
