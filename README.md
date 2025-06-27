@@ -1,5 +1,3 @@
-# my_project
-Analysis of Data Science Salaries using SQL and Tableau
 # 💼 Data Science Salaries Analysis
 
 Аналіз зарплат у сфері Data Science за допомогою SQL та Tableau Public.
